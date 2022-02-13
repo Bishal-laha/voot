@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Redressed&display=swap');
+h1{
+    font-family: 'Redressed', cursive; 
+}
+.cardd img{
+    max-width: 50%;
+    max-height: 200px;
+    
+}
+.sec{
+    background-color: rgba(226, 231, 181, 0.616);
+}
+.about{
+    background-color: rgba(196, 196, 196, 0.616);
+}
+.footer{
+    height: 100%;
+}
